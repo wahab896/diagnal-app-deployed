@@ -1,5 +1,9 @@
 {
   "name": "diagnal-app-deployed",
+  "homepage": "https://wahab896.github.io/diagnal-app-deployed/",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
